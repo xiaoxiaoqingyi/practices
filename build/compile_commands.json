@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/cProject/practices/build",
+  "command": "D:\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\practice.dir\\main.cpp.obj -c E:\\cProject\\practices\\main.cpp",
+  "file": "E:/cProject/practices/main.cpp"
+},
+{
+  "directory": "E:/cProject/practices/build/src",
+  "command": "D:\\mingw64\\bin\\g++.exe    -g   -o CMakeFiles\\MathFunc.dir\\BubbleSort.cpp.obj -c E:\\cProject\\practices\\src\\BubbleSort.cpp",
+  "file": "E:/cProject/practices/src/BubbleSort.cpp"
+}
+]

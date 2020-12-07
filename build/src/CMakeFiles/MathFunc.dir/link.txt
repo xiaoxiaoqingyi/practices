@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc libMathFunc.a  CMakeFiles/MathFunc.dir/BubbleSort.cpp.obj
+D:\mingw64\bin\ranlib.exe libMathFunc.a
